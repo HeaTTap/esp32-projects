@@ -1,0 +1,19 @@
+# Arduino / ESP32 gitignore
+# Compiled files
+*.hex
+*.elf
+*.bin
+*.o
+*.d
+*.a
+
+# Build directories
+build/
+bin/
+out/
+
+# VS Code and temporary files
+.vscode/
+.local/
+*~
+*.swp
