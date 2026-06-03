@@ -51,6 +51,10 @@ A side-scrolling platformer built with game physics, scrolling cameras, collisio
 - **TFT_eSPI**: High-speed graphics library.
 - **SPI**: Hardware communication.
 
+### Hardware Setup Demo
+![only 1 passive buzzer used here](images/mario.jpeg)
+*only 1 passive buzzer used here*
+
 ---
 
 ## 2. Bad Apple ESP32 Player
@@ -71,6 +75,9 @@ During development, low-frequency bass notes in the chorus caused screen-freezin
   - Soprano Lead & Unison: Duty cycle capped at **1.5%** (4/255)
   - Tenor: Duty cycle capped at **0.8%** (2/255)
 - **Result**: Slashes VCC noise and current spikes by **95%**, guaranteeing 100% stability of the display while preserving the bright chiptune sound character.
+
+### Hardware Setup Demo
+![Bad Apple Player Demo](images/bad_apple.jpeg)
 
 ---
 
