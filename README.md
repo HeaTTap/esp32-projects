@@ -78,7 +78,7 @@ During development, low-frequency bass notes in the chorus caused screen-freezin
 
 ### Hardware Setup Demo
 ![Bad Apple Player Demo](images/bad_apple.jpeg)
-
+*errr i forgot to take the pic of the whole setup my bad*
 ---
 
 ## Installation & Configuration
